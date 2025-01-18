@@ -1,0 +1,14 @@
+items:
+  - 'DIAMOND_SWORD'
+  - 'GOLDEN_APPLE'
+  - 'IRON_PICKAXE'
+  - 'ENCHANTED_BOOK{Enchantments:[{id:sharpness,lvl:5}]}'
+
+messages:
+  scratch_received: "&a&ld4nte_scratch &8» &7Otrzymałeś przedmiot: &a%item%"
+  scratch_give: "&a&ld4nte_scratch &8» &7Gracz &a%player% &7dał Ci zdrapkę!"
+  command_only_player: "&a&ld4nte_scratch &8» &cKomenda dostępna tylko dla graczy!"
+  command_usage: "&a&ld4nte_scratch &8» &7Użycie: &c/zdrapka <gracz>"
+  player_not_online: "&a&ld4nte_scratch &8» &7Gracz &c%player% nie jest online."
+  no_permission: "&a&ld4nte_scratch &8» &7Brak uprawnień! &8(&7d4nte.scratch&8)"
+  item_name: "&a&lZdrapka"

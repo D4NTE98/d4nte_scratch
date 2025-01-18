@@ -1,0 +1,9 @@
+name: d4nte_scratch
+version: '${project.version}'
+main: pl.d4nte.scratch.ScratchPlugin
+api-version: '1.20'
+author: "D4NTE"
+commands:
+  zdrapka:
+    description: Dodaje zdrapki do ekwipunku gracza.
+    aliases: [scratch, zdrapki]
